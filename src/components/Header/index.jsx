@@ -42,8 +42,8 @@ const Header = ({ updateAt, onChange, data, country }) => {
 
   const renderCountries = (country, index) => {
     return (
-      <Option key={`country-${index}`} value={country.value}>
-        {country.label}
+      <Option key={`country-${index}`} value={country}>
+        {country}
       </Option>
     )
   }
