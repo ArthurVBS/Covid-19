@@ -29,7 +29,7 @@
 
 ## 💻 Situação do projeto:
 
-- 🚧 Projeto em progresso... 🛠️
+- Projeto finalizado ✔️
 
 ## 🛠 Tecnologias:
 
@@ -69,5 +69,5 @@
 <h2 align="center">👨🏽‍💻 Autor</h2>
 <div align="center">
   <img width="100px;" src="https://avatars.githubusercontent.com/u/84406367?v=4" alt="Foto do Autor"/>
-  <br><span>Feito por<a href="https://github.com/ArthurVBS" target="_blank" rel="external">Arthur V.B.S</a>✌🏽</span>
+  <br><span>Feito por <a href="https://github.com/ArthurVBS" target="_blank" rel="external">Arthur V.B.S</a>✌🏽</span>
 </div>
