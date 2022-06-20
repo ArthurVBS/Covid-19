@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Covid-19/static/js/main.823a4ce3.js",
+    "main.js": "/Covid-19/static/js/main.3939ac84.js",
     "static/media/covid.jpg": "/Covid-19/static/media/covid.53cfdf156cd1d18cd291.jpg",
     "service-worker.js": "/Covid-19/service-worker.js",
     "index.html": "/Covid-19/index.html",
-    "main.823a4ce3.js.map": "/Covid-19/static/js/main.823a4ce3.js.map"
+    "main.3939ac84.js.map": "/Covid-19/static/js/main.3939ac84.js.map"
   },
   "entrypoints": [
-    "static/js/main.823a4ce3.js"
+    "static/js/main.3939ac84.js"
   ]
 }
