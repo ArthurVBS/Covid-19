@@ -9,7 +9,7 @@ import Footer from './components/Footer'
 
 const App = () => {
   const [data, setData] = useState({})
-  const [country, setCountry] = useState('usa')
+  const [country, setCountry] = useState('Germany')
   const updateAt = new Date().toLocaleString()
 
   const getCovidData = useCallback((country) => {
